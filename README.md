@@ -3,25 +3,23 @@ eslint-config-fagougou
 
 [![npm version](https://badge.fury.io/js/eslint-config-fagougou.svg)](https://badge.fury.io/js/eslint-config-fagougou)
 
-This is a extensible shared .eslintrc provided by Fagougou Hackers.
+This is an extensible .eslintrc shared by Fagougou Hackers.
 
 ## About
 
-This package includes Vuejs plugins. You can find [eslint-config-fagougou-base](https://www.npmjs.com/package/eslint-config-fagougou-base) if you don't use Vue.
+This package includes Vue plugins. You can use [eslint-config-fagougou-base](https://www.npmjs.com/package/eslint-config-fagougou-base) if you don't need Vue.
 
 ## Usage
 
-1. Install the package via NPM locally or globally
-2. Put the package in your `.eslintrc`
+`$ npm install -D eslint-config-fagougou`
+
+**.eslintrc.json** (example)
 
 ```javascript
-
-// .eslintrc
-
 {
     "extends": "eslint-config-fagougou"
     "rule": {
-        // put your own ESlint rules here
+        // your own rules
     }
 }
 
