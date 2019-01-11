@@ -8,11 +8,11 @@
     "lint": "node_modules/eslint/bin/eslint.js --quiet ."
   },
   "keywords": [
+    "fagougou",
     "eslint",
     "eslintconfig",
     "config",
-    "fagougou",
-    "javascript",
+    "standard",
     "styleguide",
     "es2015",
     "es2016",
@@ -25,28 +25,15 @@
   },
   "author": "Wu Xiaofan <xfanwu@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.12.0",
-    "eslint-config-recommended": "^4.0.0",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-friendly-formatter": "^4.0.1",
-    "eslint-loader": "^2.1.1",
-    "eslint-plugin-html": "^5.0.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0"
-  },
   "peerDependencies": {
-    "eslint": "^5.12.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint": "^5.12.0"
   },
   "dependencies": {
     "eslint": "^5.12.0",
+    "eslint-plugin-node": "^8.0.1",
     "eslint-config-recommended": "^4.0.0",
     "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint-plugin-promise": "^4.0.1"
   },
   "bugs": {
     "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
@@ -54,5 +41,9 @@
   "homepage": "https://github.com/fagougou/eslint-config-fagougou#readme",
   "engines": {
     "node": ">= 4"
-  }
+  },
+  "devDependencies": {
+    "tape": "^4.9.2"
+  },
+  "files": ["tape"]
 }
