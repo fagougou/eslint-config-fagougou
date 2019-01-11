@@ -15,6 +15,7 @@ This package includes Vue plugins. You can use [eslint-config-fagougou-base](htt
 
 **.eslintrc.json** (example)
 
+```javascript
 {
     "extends": "eslint-config-fagougou"
     "rule": {
