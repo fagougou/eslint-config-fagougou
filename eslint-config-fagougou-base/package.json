@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fagougou-base",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Fagougou's extensible shared base JS .eslintrc (without Vue plugins).",
   "main": "index.js",
   "scripts": {
@@ -30,17 +30,19 @@
   },
   "dependencies": {
     "eslint": "^5.12.0",
-    "eslint-plugin-node": "^8.0.1",
     "eslint-config-recommended": "^4.0.0",
     "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-promise": "^4.0.1"
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
   },
   "homepage": "https://github.com/fagougou/eslint-config-fagougou#readme",
   "engines": {
-    "node": ">= 4"
+    "node": ">= 6"
   },
   "devDependencies": {
     "tape": "^4.9.2"
