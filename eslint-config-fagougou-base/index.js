@@ -8,7 +8,6 @@ module.exports = {
     extends: [
         'eslint:recommended',
         'standard',
-        'plugin:node/recommended',
         'plugin:promise/recommended'
     ],
     rules: {
