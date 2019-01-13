@@ -38,4 +38,4 @@ You'll first need to install [ESlint](https://eslint.org/docs/user-guide/getting
 
 This config is base on ["eslint:recommended"](https://eslint.org/docs/rules/) and [JavaScript Standard Style](https://standardjs.com/).
 
-You may like to see the [index.js](./index) file to see others rules.
+You may like to see the [index.js](./index.js) file to see others rules.
