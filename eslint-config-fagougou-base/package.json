@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-fagougou-base",
-  "version": "1.0.5",
-  "description": "Fagougou's extensible shared base JS .eslintrc (without Vue plugins).",
+  "version": "1.1.0",
+  "description": "Shared ESLint configs (without Vue plugins) by Fagougou.",
   "main": "index.js",
   "scripts": {
     "test": "node test/requires.js",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fagougou/eslint-config-fagougou.git"
+    "url": "https://github.com/fagougou/eslint-config-fagougou-base.git"
   },
   "author": "Wu Xiaofan <xfanwu@gmail.com>",
   "license": "MIT",
@@ -37,9 +37,9 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "bugs": {
-    "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
+    "url": "https://github.com/fagougou/eslint-config-fagougou-base/issues"
   },
-  "homepage": "https://github.com/fagougou/eslint-config-fagougou#readme",
+  "homepage": "https://github.com/fagougou/eslint-config-fagougou-base#readme",
   "engines": {
     "node": ">= 6"
   },
