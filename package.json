@@ -45,9 +45,9 @@
     "eslint-plugin-vue": "^5.1.0"
   },
   "bugs": {
-    "url": "https://github.com/fagougou/eslint-config-fagougou-base/issues"
+    "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
   },
-  "homepage": "https://github.com/fagougou/eslint-config-fagougou-base#readme",
+  "homepage": "https://github.com/fagougou/eslint-config-fagougou#readme",
   "engines": {
     "node": ">= 6"
   }
