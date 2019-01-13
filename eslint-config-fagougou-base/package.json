@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fagougou/eslint-config-fagougou-base.git"
+    "url": "https://github.com/fagougou/eslint-config-fagougou.git"
   },
   "author": "Wu Xiaofan <xfanwu@gmail.com>",
   "license": "MIT",
@@ -37,9 +37,9 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "bugs": {
-    "url": "https://github.com/fagougou/eslint-config-fagougou-base/issues"
+    "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
   },
-  "homepage": "https://github.com/fagougou/eslint-config-fagougou-base#readme",
+  "homepage": "https://github.com/fagougou/eslint-config-fagougou#readme",
   "engines": {
     "node": ">= 6"
   },

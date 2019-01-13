@@ -7,7 +7,7 @@ Shared ESLint configs by Fagougou.
 
 ## About
 
-This package includes Vue plugins. You could use [eslint-config-fagougou-base](https://www.npmjs.com/package/eslint-config-fagougou-base) if you don't need Vue.
+This package includes Vue plugins. You could use [eslint-config-fagougou-base](./eslint-config-fagougou-base) if you don't need Vue.
 
 ## Usage
 
