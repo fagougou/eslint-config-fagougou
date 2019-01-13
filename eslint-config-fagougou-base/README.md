@@ -11,7 +11,7 @@ You'll first need to install [ESlint](https://eslint.org/docs/user-guide/getting
 
 **With Yarn**
 
-`yarn add --dev eslint`
+`$ yarn add --dev eslint`
 
 **With NPM**
 
