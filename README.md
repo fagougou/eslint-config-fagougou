@@ -11,7 +11,7 @@ This package includes Vue plugins. You could use [eslint-config-fagougou-base](h
 
 ## Usage
 
-You'll first need to install ESlint.
+You'll first need to install [ESlint](https://eslint.org/docs/user-guide/getting-started#installation-and-usage).
 
 **With Yarn**
 

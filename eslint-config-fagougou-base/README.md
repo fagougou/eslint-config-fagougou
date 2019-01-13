@@ -7,7 +7,7 @@ Shared ESLint configs (without Vuejs plugins) by Fagougou.
 
 ## Usage
 
-You'll first need to install ESlint.
+You'll first need to install [ESlint](https://eslint.org/docs/user-guide/getting-started#installation-and-usage).
 
 **With Yarn**
 
