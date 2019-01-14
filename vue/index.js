@@ -9,13 +9,6 @@ module.exports = {
         'plugin:vue/essential',
         'plugin:vue/strongly-recommended'
     ],
-    settings: {
-        'import/resolver': {
-            webpack: {
-                config: 'build/webpack.base.conf.js'
-            }
-        }
-    },
     rules: {
         'vue/html-indent': ['error', 4],
         'import/no-duplicates': 1,
