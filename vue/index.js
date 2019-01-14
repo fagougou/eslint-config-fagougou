@@ -17,7 +17,6 @@ module.exports = {
         'vue/return-in-computed-property': 0,
         'vue/component-name-in-template-casing': 'off',
         'vue/max-attributes-per-line': 0,
-        'vue/html-closing-bracket-newline': 0,
-        'no-console': ['error', { allow: ['error'] }]
+        'vue/html-closing-bracket-newline': 0
     }
 }

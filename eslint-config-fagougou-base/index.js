@@ -15,7 +15,7 @@ module.exports = {
             'destructuring': 'any',
             'ignoreReadBeforeAssign': true
         }],
-        'no-console': ['error'],
+        'no-console': ['warn'],
         'no-var': 'error',
         'no-unused-vars': ['error', {
             'varsIgnorePattern': '[iI]gnored',
