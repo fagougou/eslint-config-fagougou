@@ -32,6 +32,8 @@ module.exports = {
             { 'blankLine': 'always', 'next': 'block-like', 'prev': '*' },
             { 'blankLine': 'always', 'prev': ['const', 'let', 'var'], 'next': '*' },
             { 'blankLine': 'any', 'prev': ['const', 'let', 'var'], 'next': ['const', 'let', 'var'] }
-        ]
+        ],
+        'camelcase': ['warn'],
+        'promise/always-return': ['warn']
     }
 }
