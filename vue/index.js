@@ -50,23 +50,12 @@ module.exports = {
                 "ignores": []
             } ],
             "vue/html-quotes": 2,
-            "space-before-function-paren": [ "error", "always" ],
-            "prefer-const": [ "error", {
-                "destructuring": "any",
-                "ignoreReadBeforeAssign": true
-            } ],
             "vue/no-unused-components": 1,
-            "no-unused-vars": [ "warn", { "varsIgnorePattern": "[iI]gnored|next" } ],
-            "no-var": 2,
-            "quotes": [ 2, "single", "avoid-escape" ],
-            "semi": [ "error", "never" ],
-            "comma-dangle": [ "warn", "never" ],
             "vue/component-name-in-template-casing": [
                 "error", "PascalCase", {
                     "registeredComponentsOnly": true,
                     "ignores": []
-                } ],
-            "indent": [ "error", 2 ]
+            } ]
         }
     }
 }
