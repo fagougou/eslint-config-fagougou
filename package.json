@@ -42,7 +42,7 @@
     "eslint-import-resolver-webpack": "^0.10.1",
     "eslint-plugin-html": "^5.0.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-vue": "^5.1.0"
+    "eslint-plugin-vue": "^5.2.3"
   },
   "bugs": {
     "url": "https://github.com/fagougou/eslint-config-fagougou/issues"
