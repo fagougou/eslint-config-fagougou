@@ -55,6 +55,14 @@ module.exports = {
                 "registeredComponentsOnly": true,
                 "ignores": []
         } ]
-    }
+    },
+    overrides: [
+        {
+            "files": ["*.vue"],
+            "rules": {
+            "indent": "off",
+            }
+        }
+    ]
 }
 
