@@ -1,6 +1,1 @@
-module.exports = {
-    extends: [
-        'eslint-config-fagougou-base',
-        './vue'
-    ].map(require.resolve)
-}
+module.exports = require('./lib/base')
