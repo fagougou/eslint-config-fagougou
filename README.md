@@ -11,7 +11,7 @@ Shared ESLint configs by Fagougou.
 
 This config is base on [JavaScript Standard Style](https://standardjs.com/).
 
-`$ npm install -D eslint babel-eslint eslint-config-fagougou`
+`$ npm install -D eslint babel-eslint eslint-plugin-import eslint-config-fagougou`
 
 **.eslintrc** (Example)
 
@@ -64,7 +64,7 @@ or
 
 This config is base on [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue).
 
-`$ npm install -D eslint babel-eslint eslint-config-fagougou eslint-plugin-vue`
+`$ npm install -D eslint babel-eslint eslint-config-fagougou eslint-plugin-vue eslint-plugin-import`
 
 *.eslintrc*
 
